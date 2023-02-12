@@ -28,6 +28,7 @@ nav ul li{
 a{
     text-decoration: none;
     color: #555;
+    
 }
 p{
     color: #555;
@@ -162,6 +163,7 @@ small{
     margin-top: 20px;
     border-radius: 50%;
 }
+
 .testimonial .col-3:hover{
     transform: translateY(-10px);
 }
@@ -169,6 +171,7 @@ small{
     font-size: 34px;
     color: #ff523b;
 }
+
 .col-3 p{
     font-size: 12px;
     margin: 12px 0;
