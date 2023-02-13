@@ -23,12 +23,12 @@ nav ul{
 }
 nav ul li{
     display: inline-block;
-    margin-right: 21px;
+    margin-right: 20px;
 }
 a{
     text-decoration: none;
     color: #555;
-    
+
 }
 p{
     color: #555;
@@ -51,7 +51,7 @@ p{
 }
 .col-2 img{
     max-width: 100%;
-    padding: 50px 0;
+    padding: 50px 1px;
 }
 .col-2 h1{
     font-size: 50px;
