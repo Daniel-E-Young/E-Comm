@@ -217,7 +217,7 @@ width: 160px;
     margin-bottom: 20px;
 }
 .footer-col-1{
-    flex-basis: 50%;
+    flex-basis: 30%;
 }
 .footer-col-2{
     flex: 1;
