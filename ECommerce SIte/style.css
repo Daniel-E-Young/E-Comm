@@ -9,7 +9,7 @@ body{
 }
 
 .navbar{
-    display: flex;
+    display: grid;
     align-items: center;
     padding: 20px;
 }
